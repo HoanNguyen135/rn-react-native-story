@@ -1,0 +1,15 @@
+{
+  "name": "rn-react-native-story",
+  "version": "1.0.1",
+  "typings": null,
+  "description": "rn-react-native-story",
+  "main": "main.js",
+  "scripts": {},
+  "author": "HoanNguyen135",
+  "repository": "https://github.com/HoanNguyen135/rn-react-native-story",
+  "license": "MIT",
+  
+  "dependencies": {
+      "react-native-animation-story": "*"
+  }
+}
